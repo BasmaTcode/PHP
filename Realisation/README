@@ -1,0 +1,27 @@
+# Projet Quiz PHP
+
+## Description
+Ce projet est une petite application PHP locale qui permet à un utilisateur
+de répondre à un quiz à choix multiples et d’obtenir son résultat immédiatement.
+
+Le projet fonctionne sans base de données, sans POO et entièrement en local.
+
+---
+
+## Objectif du projet
+- Créer un quiz simple en PHP
+- Traiter les réponses envoyées par l’utilisateur
+- Calculer un score automatiquement
+- Afficher les résultats après validation
+
+---
+
+## Technologies utilisées
+- HTML
+- PHP
+- CSS (optionnel)
+- Serveur local : XAMPP / WAMP
+
+---
+
+## Structure du projet
